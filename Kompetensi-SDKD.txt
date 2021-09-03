@@ -6,6 +6,8 @@ b. Komunikasi Daring Asinkron
 c. Github 
 - Membuat akun 
 - Membuat Repository (file baru dan commit)
+- Membuat file baru 
+- Membuat commit
 d. Git 
 - Belum
 
