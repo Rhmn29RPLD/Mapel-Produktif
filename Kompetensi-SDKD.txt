@@ -3,5 +3,6 @@ a. Komunikasi Daring Sinkron
 - LINE
 b. Komunikasi Daring Asinkron 
 - Email
-
+c. Github 
+d. Git
 
